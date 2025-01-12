@@ -1,7 +1,7 @@
 GRZ TOOL PUBG
 
 GRZ TOOL PUBG is a powerful optimization tool designed to elevate your gaming experience, especially for PUBG Mobile players using emulators. It offers advanced features to boost performance, clean unnecessary files, and enable exclusive in-game enhancements.
-
+![1](https://github.com/user-attachments/assets/1269d91e-da7a-4cb5-9f83-49d630871240)
 Features
 
 Emulator Speed Boost: Enhances emulator performance for a smoother gameplay experience.
@@ -54,7 +54,7 @@ PUBG Mobile Enhancements
 
 
 
-(Replace image paths with actual image locations.)
+![2](https://github.com/user-attachments/assets/235fd768-1758-46e0-a423-4252d23c5e14)
 
 FAQ
 
@@ -72,7 +72,8 @@ A: This tool is designed for Windows PCs and is not compatible with mobile devic
 
 Support
 
-For any issues or inquiries, please contact our support team at support@grztoolpubg.com.
+For any issues or inquiries, please contact our support team at discord #doctorxpro
+or server https://discord.gg/m7V4c9Hg8t
 
 License
 
@@ -80,6 +81,9 @@ GRZ TOOL PUBG is licensed under MIT License.
 
 Contribution
 
-We welcome contributions! Feel free to submit issues or pull requests on our GitHub Repository (replace # with the actual link).
+ZIP FILE PASSWORD: "GRZPUBGTOOLBYDOCTORXGRZTEAM?!@%_a"
 
 Enjoy smoother gameplay and enhanced performance with GRZ TOOL PUBG!
+
+
+![3](https://github.com/user-attachments/assets/d0890267-ea31-4c3b-9519-df553200573d)
