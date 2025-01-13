@@ -81,7 +81,7 @@ GRZ TOOL PUBG is licensed under MIT License.
 
 Contribution
 
-ZIP FILE PASSWORD: "GRZPUBGTOOLBYDOCTORXGRZTEAM?!@%_a"
+ZIP FILE PASSWORD: GRZPUBGTOOLBYDOCTORXGRZTEAM?!@%_a
 
 Enjoy smoother gameplay and enhanced performance with GRZ TOOL PUBG!
 
