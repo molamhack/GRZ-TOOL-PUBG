@@ -73,7 +73,7 @@ A: This tool is designed for Windows PCs and is not compatible with mobile devic
 Support
 
 For any issues or inquiries, please contact our support team at discord #doctorxpro
-or server https://discord.gg/m7V4c9Hg8t
+or server https://discord.gg/52xresTKs7
 
 License
 
